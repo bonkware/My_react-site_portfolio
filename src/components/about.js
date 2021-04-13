@@ -30,7 +30,7 @@ export default class Footer extends Component {
                   <span className="flaticon-speaker" />
                 </div>
                 <div className="cat-cap">
-                  <h5><a href="services.html">Web app development</a></h5>
+                  <h5><a href="services.html">Web applications development</a></h5>
                   <p>Design and development of data driven web applications.</p>
                 </div>
               </div>
